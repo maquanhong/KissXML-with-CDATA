@@ -12,15 +12,12 @@ KissXML is a mature library used in thousands of products. It's also used in oth
 
 KissXML was inspired by the TouchXML project, but was created to add full support for generating XML as well as supporting the entire NSXML API.
 
-**This fork add the category named DDXMLNode+CDATA to support for CDATA nodes. You will find it under Categories folder**
-
-**[Get started using KissXML](https://github.com/robbiehanson/KissXML/wiki/GettingStarted)**<br/>
-**[Learn more about KissXML](https://github.com/robbiehanson/KissXML/wiki)**<br/>
+This fork add the category named DDXMLNode+CDATA to **support for CDATA nodes**. You will find it under Categories folder. [Go to original project robbiehanson/KissXML](https://github.com/robbiehanson/KissXML)
 
 
 
-<br/>
-Can't find the answer to your question in any of the [wiki](https://github.com/robbiehanson/KissXML/wiki) articles? Try the **[mailing list](http://groups.google.com/group/kissxml)**.
-<br/>
-<br/>
-Love the project? Wanna buy me a coffee? (or a beer :D) [![donation](http://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=69SPF7R4ZF69J)
+[Get started using KissXML](https://github.com/robbiehanson/KissXML/wiki/GettingStarted)
+
+[Learn more about KissXML](https://github.com/robbiehanson/KissXML/wiki)
+
+
